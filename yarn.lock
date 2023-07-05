@@ -3474,6 +3474,16 @@ cjs-module-lexer@^1.0.0:
   resolved "https://registry.yarnpkg.com/cjs-module-lexer/-/cjs-module-lexer-1.2.3.tgz#6c370ab19f8a3394e318fe682686ec0ac684d107"
   integrity sha512-0TNiGstbQmCFwt4akjjBg5pLRTSyj/PkWQ1ZoO2zntmg9yLqSRxwEa4iCfQLGjqhiqBfOJa7W/E8wfGrTDmlZQ==
 
+"ckeditor5-custom-build@file:./ckeditor5":
+  version "0.0.1"
+  dependencies:
+    ckeditor5-placeholder "^1.2.1"
+
+ckeditor5-placeholder@^1.2.1:
+  version "1.2.1"
+  resolved "https://registry.yarnpkg.com/ckeditor5-placeholder/-/ckeditor5-placeholder-1.2.1.tgz#9e665ce02ecaf270e757cd6e94f0436635e6cfde"
+  integrity sha512-wPJf8PB2OC85bS4dWlQv726GWvo+KU5R+JaNBmCWnn/MLcaJMW4ibWFxW9k5mbjvijIWNga0j6+7+uxNJbg2Nw==
+
 ckeditor5@38.1.0:
   version "38.1.0"
   resolved "https://registry.yarnpkg.com/ckeditor5/-/ckeditor5-38.1.0.tgz#6862a7bf5e67d2766e95f22926b7e4b1206ba830"
